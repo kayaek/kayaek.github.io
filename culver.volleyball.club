@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <style>
+            p {color: blue;
+                font-size: 48px;
+                font-weight: bold;
+                text-decoration: underline;
+                text-align: center;
+              }
+              
+            img { display: block;
+            margin-right: auto;
+            }
+            
+            h2 {text-align: center;
+                 font-size: 25px;
+                }
+            
+            body {
+                background: url(https://s-media-cache-ak0.pinimg.com/736x/ea/98/57/ea9857161bfad4335c7fc66250b69e72.jpg);
+            color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <p> Culver Volleyball Club </p>
+        
+        
+        <h2> We are a club volleyball team for all ages, from 6 to 18.</h2>
+        <img style= "width: 25%" src="
+        https://s-media-cache-ak0.pinimg.com/736x/ea/98/57/ea9857161bfad4335c7fc66250b69e72.jpg" />
+        <a href=""> Culver Volleyball Club</a>
+        </body>
+        </html>
+    
+
+
+
+
+
+
